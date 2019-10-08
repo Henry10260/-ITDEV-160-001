@@ -1,0 +1,42 @@
+body 
+{
+  font-family: sans-serif;
+  color: black;
+}
+
+h1 
+{
+  background-color: lightblue;
+}
+
+
+figcaption span 
+{
+  font-size: 0.85em;
+}
+
+.center
+{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+div.review 
+{
+  padding: 10px;
+  background-color: lightblue;
+  margin: 15px 0 15px 0;
+}
+
+img
+{
+
+  width:20%;
+  height:20%;
+}
+
+footer
+{
+  font-size: 0.6em;
+}
