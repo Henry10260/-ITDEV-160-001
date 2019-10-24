@@ -1,0 +1,98 @@
+  body 
+    {
+        background-color:orange;
+        font-family:fantasy;
+    }
+    header
+    {
+        background-color: black;
+        padding: 30px;
+        text-align: center;
+        font-size: 50px;
+        color: whitesmoke;
+    }
+    h2
+    {
+        font-size: 25px;
+    }
+
+    img
+    {
+      margin-left: 10px;
+      margin-right: 10px;
+      height:100px;
+      width: 100px;
+    }
+
+    .center
+    {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 100%;
+        text-align: center;
+    }
+    .center2
+    {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 100px;
+        text-align: center;
+    }
+    nav
+    {
+        flex: 1;
+        padding: 20px;
+        font-size: 25px;
+    }
+    nav ul
+    {
+        list-style-type: none;
+        padding: 0;
+    }
+
+    footer
+    {
+        background-color: black;
+        padding: 15px;
+        text-align-last: center;
+        color: whitesmoke;
+    }
+
+    sidepages
+    {
+        margin: auto;
+        font-size: 50px;
+    }
+    ol
+    {
+        margin-left:25px;
+    }
+
+
+    sidepages2
+    {
+        position:absolute;
+        text-align:center;
+        bottom:0;
+        width:100%;
+        color:white;
+    }
+    
+    sidepages3 
+    { 
+        text-align: center; 
+        font-size: 60px;
+        color: black;
+    }
+
+    .sc
+    {
+        height:450px;
+        width:450px;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        text-align: center;
+    }
